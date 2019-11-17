@@ -4,9 +4,9 @@
   "private": true,
   "scripts": {
     "build": "tsc",
-    "start": "node dist",
+    "start": "node public",
     "tsc": "tsc",
-    "watch": "tsc --watch & nodemon dist"
+    "watch": "tsc --watch & nodemon public"
   },
   "keywords": [],
   "author": "Ante Machiedo",

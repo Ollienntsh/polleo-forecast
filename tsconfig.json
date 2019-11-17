@@ -2,7 +2,7 @@
   "compilerOptions": {
     "esModuleInterop": true,
     "module": "commonjs",
-    "outDir": "dist",
+    "outDir": "public",
     "sourceMap": true,
     "target": "es6",
     "noImplicitAny": false
