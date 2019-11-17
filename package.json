@@ -4,11 +4,9 @@
   "private": true,
   "scripts": {
     "build": "tsc",
-    "nodemon:dist": "nodemon dist",
-    "start": "tsc --watch & nodemon dist",
-    "test": "echo Skipping tests...",
-    "tsc:watch": "tsc --watch",
-    "tsc": "tsc"
+    "start": "node dist",
+    "tsc": "tsc",
+    "watch": "tsc --watch & nodemon dist"
   },
   "keywords": [],
   "author": "Ante Machiedo",
