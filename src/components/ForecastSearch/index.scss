@@ -1,0 +1,16 @@
+.forecast-card-container {
+  position: relative;
+}
+
+.submit-section {
+  padding: 10px 0;
+}
+
+.spinner {
+  left: 50%;
+  margin-left: -16px;
+  margin-top: -18.5px;
+  position: absolute;
+  top: 50%;
+  z-index: 1;
+}
